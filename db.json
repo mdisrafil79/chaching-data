@@ -1,0 +1,147 @@
+
+
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 2500,
+      "description": "Premium wireless headphones with noise cancellation and high-quality sound.",
+      "image": "https://placehold.co/600x400?text=Headphones",
+      "rating": 4.5,
+      "stock": 25,
+      "brand": "Sony"
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 4500,
+      "description": "Modern smartwatch with fitness tracking, heart rate monitoring and notifications.",
+      "image": "https://placehold.co/600x400?text=Smart+Watch",
+      "rating": 4.7,
+      "stock": 18,
+      "brand": "Samsung"
+    },
+    {
+      "id": "3",
+      "name": "Running Shoes",
+      "category": "Fashion",
+      "price": 3200,
+      "description": "Comfortable lightweight running shoes suitable for everyday workouts.",
+      "image": "https://placehold.co/600x400?text=Running+Shoes",
+      "rating": 4.3,
+      "stock": 30,
+      "brand": "Nike"
+    },
+    {
+      "id": "4",
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 1800,
+      "description": "Durable everyday backpack with multiple compartments and laptop storage.",
+      "image": "https://placehold.co/600x400?text=Backpack",
+      "rating": 4.2,
+      "stock": 15,
+      "brand": "Adidas"
+    },
+    {
+      "id": "5",
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 5500,
+      "description": "RGB mechanical keyboard with responsive keys and a durable design.",
+      "image": "https://placehold.co/600x400?text=Keyboard",
+      "rating": 4.8,
+      "stock": 12,
+      "brand": "Logitech"
+    },
+    {
+      "id": "6",
+      "name": "Sunglasses",
+      "category": "Fashion",
+      "price": 1200,
+      "description": "Stylish UV-protected sunglasses suitable for outdoor activities.",
+      "image": "https://placehold.co/600x400?text=Sunglasses",
+      "rating": 4.1,
+      "stock": 40,
+      "brand": "Ray-Ban"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction",
+      "price": 350,
+      "description": "A young shepherd travels in search of his personal legend and dreams.",
+      "image": "https://placehold.co/600x400?text=The+Alchemist",
+      "rating": 4.8,
+      "stock": 20,
+      "publisher": "HarperCollins"
+    },
+    {
+      "id": "2",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self-Help",
+      "price": 550,
+      "description": "A practical guide to building good habits and breaking bad ones.",
+      "image": "https://placehold.co/600x400?text=Atomic+Habits",
+      "rating": 4.9,
+      "stock": 15,
+      "publisher": "Penguin"
+    },
+    {
+      "id": "3",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "category": "Finance",
+      "price": 450,
+      "description": "Learn about financial education, investing and building wealth.",
+      "image": "https://placehold.co/600x400?text=Rich+Dad+Poor+Dad",
+      "rating": 4.7,
+      "stock": 25,
+      "publisher": "Plata Publishing"
+    },
+    {
+      "id": "4",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 500,
+      "description": "Explores how people think about money, wealth and financial decisions.",
+      "image": "https://placehold.co/600x400?text=Psychology+of+Money",
+      "rating": 4.8,
+      "stock": 18,
+      "publisher": "Harriman House"
+    },
+    {
+      "id": "5",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 420,
+      "description": "Learn how to focus deeply and produce valuable work without distractions.",
+      "image": "https://placehold.co/600x400?text=Deep+Work",
+      "rating": 4.6,
+      "stock": 12,
+      "publisher": "Grand Central Publishing"
+    },
+    {
+      "id": "6",
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "category": "Personal Development",
+      "price": 480,
+      "description": "A guide to mindfulness, present-moment awareness and inner peace.",
+      "image": "https://placehold.co/600x400?text=The+Power+of+Now",
+      "rating": 4.7,
+      "stock": 22,
+      "publisher": "New World Library"
+    }
+  ]
+}
+

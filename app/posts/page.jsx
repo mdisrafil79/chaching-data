@@ -35,7 +35,6 @@ const PostPage = async() => {
     // const posts = await res.json();
 
     const posts = await getPosts();
-    console.log(posts);
     return (
         <div>
             <h2>Hello Post: {posts.length}</h2>
