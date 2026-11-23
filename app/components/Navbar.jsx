@@ -1,7 +1,11 @@
-import Link from 'next/link';
+'use client';
 import React from 'react';
+import Link from 'next/link';
+import useUser from '../hooks/useUser';
 
 const Navbar = () => {
+  const user = useUser();
+  console.log('from context in navbar',user);
   const links = <>
       <li><Link href="/">Home</Link></li>
       <li><Link href="/posts">Posts</Link></li>
